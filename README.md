@@ -12,6 +12,7 @@ App-Windows > release > huffman-file-compression.exe
 - Upon successfull encoding(compression) a message window will pop pup.
 - You can decode the encoded file by followin the same procedure in decode section.
 > You must select the source and destination location for successfull compression and decompression.
+> You may get security warning on windows. Just click on `More info` and then `Run anyway` 
 ## For Developer
 If you want to compile the code on command prompt/  terminal, you can do so by browsing to `huffman-file-compression\src` in terminal and running following these commands
 ```
